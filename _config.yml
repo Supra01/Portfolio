@@ -25,7 +25,6 @@ markdown: kramdown
 gem:
   - jekyll-feed
   - jekyll-autoprefixer
-  - jekyll-autoprefixer
   - jekyll-sitemap
 exclude:
   - Gemfile
